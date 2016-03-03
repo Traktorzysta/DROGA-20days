@@ -12,7 +12,7 @@ public class Player : MonoBehaviour
     private Animator anim;
     private float v;
 
-
+    //Bartek weź się za robote!!
     // Use this for initialization
     void Start()
     {
